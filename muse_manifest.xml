@@ -1,7 +1,7 @@
-<manifest alg="2" build="2017.0.1.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="flipstudio.co.uk" resolutions="1x" timestamp="1505846424500">
+<manifest alg="2" build="2017.0.1.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="flipstudio.co.uk" resolutions="1x" timestamp="1505936268826">
   <folder name="css">
     <file name="site_global.css" crc="4056376302"/>
-    <file name="index.css" crc="4153647105" ref="index"/>
+    <file name="index.css" crc="3820061129" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="phone>index:tablet>index:index"/>
@@ -91,18 +91,28 @@
     <file name="u5292-r.png" crc="413867930" ref="tablet>index"/>
     <file name="u5294.png" crc="4272385404" ref="tablet>index"/>
     <file name="u5294-r.png" crc="112310536" ref="tablet>index"/>
-    <file name="u2665-4.png" crc="75714696" ref="index"/>
-    <file name="u2668-4.png" crc="4075639452" ref="index"/>
-    <file name="u2669-4.png" crc="4271304323" ref="index"/>
-    <file name="u2671-4.png" crc="4055964195" ref="index"/>
-    <file name="u2670-4.png" crc="4148788731" ref="index"/>
-    <file name="u2768-4.png" crc="4173024192" ref="index"/>
-    <file name="img_1815-crop-u6676.jpg" crc="4268869423" ref="index"/>
-    <file name="u2840-4.png" crc="4047071112" ref="index"/>
-    <file name="img_1816.jpg" crc="4070929549" seo="true" ref="index"/>
-    <file name="img_1817.jpg" crc="3920299638" seo="true" ref="index"/>
-    <file name="img_1819.jpg" crc="402733723" seo="true" ref="index"/>
-    <file name="u2948-4.png" crc="185596167" ref="index"/>
+    <file name="u2665-4.png" crc="174506537" ref="index"/>
+    <file name="u2668-3.png" crc="4165427333" ref="index"/>
+    <file name="u2669-3.png" crc="4165427333" ref="index"/>
+    <file name="u2671-3.png" crc="4165427333" ref="index"/>
+    <file name="u2670-3.png" crc="4165427333" ref="index"/>
+    <file name="u2768-4.png" crc="496248782" ref="index"/>
+    <file name="img_1825-crop-u6717.jpg" crc="527116688" ref="index"/>
+    <file name="u6727-26.png" crc="3854489859" ref="index"/>
+    <file name="u6760-4.png" crc="3995371915" ref="index"/>
+    <file name="watch_1.png" crc="3900609471" seo="true" ref="index"/>
+    <file name="u6754-4.png" crc="399897649" ref="index"/>
+    <file name="u6736-14.png" crc="4121334777" ref="index"/>
+    <file name="u6744-4.png" crc="3830855720" ref="index"/>
+    <file name="u6748-4.png" crc="344655518" ref="index"/>
+    <file name="conact text.png" crc="62323928" seo="true" ref="index"/>
+    <file name="u6776-4.png" crc="87715756" ref="index"/>
+    <file name="layla.png" crc="222120100" seo="true" ref="index"/>
+    <file name="jordan.png" crc="3953754845" seo="true" ref="index"/>
+    <file name="louise.png" crc="4018045530" seo="true" ref="index"/>
+    <file name="u6853-4.png" crc="409722958" ref="index"/>
+    <file name="u6859-4.png" crc="4074562152" ref="index"/>
+    <file name="u6871-4.png" crc="503384539" ref="index"/>
   </folder>
   <folder name="tablet">
     <folder name="css">
@@ -120,5 +130,5 @@
     </folder>
     <file name="index.html" crc="4185057761" seo="true" mt="1505846268003" redirect="true"/>
   </folder>
-  <file name="index.html" crc="3973972266" seo="true" mt="1505846222637" redirect="true"/>
+  <file name="index.html" crc="47545581" seo="true" mt="1505936116940" redirect="true"/>
 </manifest>

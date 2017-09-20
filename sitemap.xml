@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://flipstudio.co.uk/index.html</loc>
-    <lastmod>2017-09-19</lastmod>
+    <lastmod>2017-09-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://flipstudio.co.uk/phone/index.html"/>
@@ -10,55 +10,67 @@
   </url>
   <url>
     <loc>http://flipstudio.co.uk/images/design.png</loc>
-    <lastmod>2017-09-19</lastmod>
+    <lastmod>2017-09-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://flipstudio.co.uk/images/90-.png</loc>
-    <lastmod>2017-09-19</lastmod>
+    <lastmod>2017-09-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://flipstudio.co.uk/images/75-.png</loc>
-    <lastmod>2017-09-19</lastmod>
+    <lastmod>2017-09-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://flipstudio.co.uk/images/development.png</loc>
-    <lastmod>2017-09-19</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://flipstudio.co.uk/images/branding.png</loc>
-    <lastmod>2017-09-19</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://flipstudio.co.uk/images/img_1816.jpg</loc>
-    <lastmod>2017-09-19</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://flipstudio.co.uk/images/img_1817.jpg</loc>
-    <lastmod>2017-09-19</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://flipstudio.co.uk/images/img_1819.jpg</loc>
-    <lastmod>2017-09-19</lastmod>
+    <lastmod>2017-09-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://flipstudio.co.uk/images/responsive.png</loc>
-    <lastmod>2017-09-19</lastmod>
+    <lastmod>2017-09-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://flipstudio.co.uk/images/branding.png</loc>
+    <lastmod>2017-09-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://flipstudio.co.uk/images/conact%20text.png</loc>
+    <lastmod>2017-09-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://flipstudio.co.uk/images/layla.png</loc>
+    <lastmod>2017-09-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://flipstudio.co.uk/images/jordan.png</loc>
+    <lastmod>2017-09-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://flipstudio.co.uk/images/louise.png</loc>
+    <lastmod>2017-09-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://flipstudio.co.uk/images/watch_1.png</loc>
+    <lastmod>2017-09-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
