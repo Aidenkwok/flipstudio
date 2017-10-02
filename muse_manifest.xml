@@ -1,7 +1,7 @@
-<manifest alg="2" build="2017.0.1.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="flipstudio.co.uk" resolutions="1x" timestamp="1505940642608">
+<manifest alg="2" build="2017.0.1.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="flipstudio.co.uk" resolutions="1x" timestamp="1506955662742">
   <folder name="css">
     <file name="site_global.css" crc="4056376302"/>
-    <file name="index.css" crc="3937765341" ref="index"/>
+    <file name="index.css" crc="464494749" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="phone>index:index"/>
@@ -13,7 +13,7 @@
   </folder>
   <folder name="images">
     <file name="u6886-4.png" crc="174506537" ref="phone>index"/>
-    <file name="img_1825-crop-u6892.jpg" crc="36316504" ref="phone>index"/>
+    <file name="img_9523.jpg" crc="4093600896" seo="true" ref="index"/>
     <file name="u6899-26.png" crc="3774700518" ref="phone>index"/>
     <file name="watch_1.png" crc="3900609471" seo="true" ref="phone>index:index"/>
     <file name="u6919-4.png" crc="4123331132" ref="phone>index"/>
@@ -35,7 +35,6 @@
     <file name="u2671-3.png" crc="4165427333" ref="index"/>
     <file name="u2670-3.png" crc="4165427333" ref="index"/>
     <file name="u2768-4.png" crc="496248782" ref="index"/>
-    <file name="img_1825-crop-u6717.jpg" crc="527116688" ref="index"/>
     <file name="u6727-26.png" crc="3854489859" ref="index"/>
     <file name="u6760-4.png" crc="3995371915" ref="index"/>
     <file name="u6754-4.png" crc="399897649" ref="index"/>
@@ -46,13 +45,14 @@
     <file name="u6853-4.png" crc="409722958" ref="index"/>
     <file name="u6859-4.png" crc="4074562152" ref="index"/>
     <file name="u6871-4.png" crc="503384539" ref="index"/>
+    <file name="img_9523380x254.jpg" crc="4214432804" seo="true" ref="phone>index"/>
   </folder>
   <folder name="phone">
     <folder name="css">
       <file name="master_a-master.css" crc="3778637138" ref="phone>index"/>
-      <file name="index.css" crc="492930719" ref="phone>index"/>
+      <file name="index.css" crc="3768981991" ref="phone>index"/>
     </folder>
-    <file name="index.html" crc="471805035" seo="true" mt="1505940583373" redirect="true"/>
+    <file name="index.html" crc="521691851" seo="true" mt="1506955651232" redirect="true"/>
   </folder>
-  <file name="index.html" crc="4016725776" seo="true" mt="1505939992765" redirect="true"/>
+  <file name="index.html" crc="340127768" seo="true" mt="1506955643909" redirect="true"/>
 </manifest>
